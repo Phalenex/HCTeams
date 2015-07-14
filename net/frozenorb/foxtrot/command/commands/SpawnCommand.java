@@ -13,7 +13,7 @@ public class SpawnCommand
             sender.teleport(buttplug.fdsjfhkdsjfdsjhk().getServerHandler().getSpawnLocation());
         }
         else {
-            sender.sendMessage(ChatColor.RED + "HCTeams does not have a spawn command! You must walk there!");
+            sender.sendMessage(ChatColor.RED + "Future's HCF does not have a spawn command! You must walk there! Get REKT! <3");
         }
     }
 }
