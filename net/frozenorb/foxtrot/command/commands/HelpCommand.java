@@ -8,6 +8,6 @@ public class HelpCommand
 {
     @Command(names = { "Help" }, permissionNode = "")
     public static void help(final Player sender) {
-        sender.sendMessage(ChatColor.YELLOW + "Welcome to HCTeams! Please contact an admin for help.");
+        sender.sendMessage(ChatColor.YELLOW + "Welcome to Future's HCF! Please contact an admin for help.");
     }
 }
